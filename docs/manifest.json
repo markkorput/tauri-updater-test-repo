@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "Test version",
+  "pub_date": "2023-11-08T11:00:00Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVmMrY0VpTmZ6d0wzNTV4UVg1dGxvZmQ5TDZEWTNlSlJBK1QyZjdETzVVNTA1ZFNUZU82c1dNdi9YNE1IZnBqWElPVjBZWWwrY0lUdVdVZVYxeGQ4VHVRTXpDcjljRHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5NDQ0NjUwCWZpbGU6Ym9laW5nLXNhZmV0eS1leHBlcmllbmNlLmFwcC50YXIuZ3oKSHhacEhFeDdBcGZuR0czZjc0ckRVaTJlRjRmczUrK3ppaEtoNHFFdVpTeVpldGM3cXkxSG1CSEdmbmI2Z09WUGJWUVJKbno0UmljcUJBNlVmTzVFQVE9PQo=",
+      "url": "https://shortnotion.com/tauri-updater-test-repo/versions/0.1.0/boeing-safety-experience.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVmMrY0VpTmZ6d0wzNTV4UVg1dGxvZmQ5TDZEWTNlSlJBK1QyZjdETzVVNTA1ZFNUZU82c1dNdi9YNE1IZnBqWElPVjBZWWwrY0lUdVdVZVYxeGQ4VHVRTXpDcjljRHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5NDQ0NjUwCWZpbGU6Ym9laW5nLXNhZmV0eS1leHBlcmllbmNlLmFwcC50YXIuZ3oKSHhacEhFeDdBcGZuR0czZjc0ckRVaTJlRjRmczUrK3ppaEtoNHFFdVpTeVpldGM3cXkxSG1CSEdmbmI2Z09WUGJWUVJKbno0UmljcUJBNlVmTzVFQVE9PQo=",
+      "url": "https://shortnotion.com/tauri-updater-test-repo/versions/0.1.0/boeing-safety-experience.app.tar.gz"
+    }
+  }
+}
